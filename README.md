@@ -34,5 +34,5 @@ You can find instructions on their github account: https://github.com/googlemaps
    1. `XMATTERS_API_PASSWORD`
 
 ## Running the examples
-- `node sites-geocode.js - Geocode all sites using Google Maps Service API.
-- `node sites-clear-location.js` - Clear the geocode location for all sites.
+- `$ node sites-geocode.js` - Geocode all sites using Google Maps Service API.
+- `$ node sites-clear-location.js` - Clear the geocode location for all sites.
