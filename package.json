@@ -1,0 +1,14 @@
+{
+  "name": "xm-site-geocoder",
+  "version": "0.0.1",
+  "description": "NodeJS app that can geocode Sites in xMatters.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xm-craig",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@google/maps": "^0.5.5",
+    "xm-api-services-js": "^0.0.1"
+  }
+}
